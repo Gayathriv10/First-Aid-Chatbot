@@ -6,3 +6,4 @@ python-dotenv==1.0.1
 langdetect==1.0.9
 deep-translator==1.11.4
 google-generativeai==0.3.2
+gunicorn==20.1.0
