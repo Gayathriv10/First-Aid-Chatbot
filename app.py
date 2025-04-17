@@ -9,6 +9,14 @@ from dotenv import load_dotenv
 from langdetect import detect
 from deep_translator import GoogleTranslator
 
+# Initialize session state keys
+if "language" not in st.session_state:
+    st.session_state.language = None
+
+# (Add more if needed)
+if "user_input" not in st.session_state:
+    st.session_state.user_input = ""
+
 # Avoid repeated NLTK download messages
 import nltk.data
 try:
