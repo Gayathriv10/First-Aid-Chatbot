@@ -18,10 +18,6 @@ The First Aid Chatbot (Dr.Aidy) is a bilingual (English/Tamil) chatbot built usi
 
 ⚡ Fast Processing
 
-**Try It Out**
-
-👉 
-
 **Installation:**
 
 git clone https://github.com/Gayathriv10/First-aid-chatbot.git
