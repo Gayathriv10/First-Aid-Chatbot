@@ -1,21 +1,21 @@
 ## 🩺 Dr.Aidy – First Aid Chatbot
-The First Aid Chatbot (Dr.Aidy) is a bilingual (English/Tamil) chatbot built using Streamlit, designed to provide instant first aid guidance based on user queries. It integrates Gemini AI for intelligent responses and uses a local JSON dataset as a fallback for accuracy and speed.
+The First Aid Chatbot (Dr.Aidy) is a bilingual (English/Tamil) chatbot built using Streamlit, designed to provide instant first aid guidance based on user queries. It integrates AI for intelligent responses and uses a local JSON dataset as a fallback for accuracy and speed.
 
 ## Key Features: 
 
-- Instant First Aid Advice
+🔥 Instant First Aid Advice
 
-- English and Tamil Language Support
+🗣️ English and Tamil Language Support
 
-- AI Integrated
+🧠 AI Integrated
 
-- Local JSON Fallback for Fast & Reliable Responses
+📦 Local JSON Fallback for Fast & Reliable Responses
 
-- Responsive & Mobile Friendly
+📱 Responsive & Mobile Friendly
 
-- Easy to Expand & Customize
+🧩 Easy to Expand & Customize
 
-- Fast Processing##
+⚡ Fast Processing##
 
 ## Set your API key:
 
@@ -32,3 +32,15 @@ MONGO_COLLECTION=users
 ## Run the app:
 
 streamlit run your_script_name.py
+
+
+## Installation
+
+Install this project using this link 
+
+```bash
+git clone https://github.com/Gayathriv10/First-aid-chatbot.git
+cd First-aid-chatbot
+pip install -r requirements.txt
+```
+    
