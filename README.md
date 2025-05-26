@@ -33,9 +33,7 @@ MONGO_COLLECTION=users
 
 streamlit run your_script_name.py
 
-
 ## Installation
-
 Install this project using this link 
 
 ```bash
